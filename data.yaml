@@ -1,0 +1,5 @@
+datasets : D:/桌面/公開資料集/LISA_YOLO/datasets
+train : D:/桌面/公開資料集/LISA_YOLO/datasets/images/train
+val : D:/桌面/公開資料集/LISA_YOLO/datasets/images/val
+nc : 7
+name : [ 'go','stop','stopLeft','warning','warningLeft','goForward','goLeft' ] 
